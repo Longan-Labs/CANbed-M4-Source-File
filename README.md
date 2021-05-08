@@ -13,4 +13,4 @@ Click on [Longan-Labs.cc](https://www.longan-labs.cc/) to get the product you ne
 
 Contact [support@longan-labs.cc](support@longan-labs.cc) if you need help.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-101965714-1/CAN_BUS_SHIELD_RES)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-101965714-1/CANbed-M4-Source-File)](https://github.com/igrigorik/ga-beacon)
